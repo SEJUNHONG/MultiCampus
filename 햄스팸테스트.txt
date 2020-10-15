@@ -1,0 +1,11 @@
+type,text
+ham,"I have 2 sleeping bags, 1 blanket and paper and  phone details. Anything else?"
+spam,Ur balance is now \50000000. Ur next question is: Who sang 'Uptown Girl' in the 80's ? 2 answer txt ur ANSWER to 123456. Good luck!
+ham,Already one guy loving you:-.
+ham,Prepare to be pounded every night...
+ham,You are a great role model. You are giving so much and i really wish each day for a miracle but God as a reason for everything and i must say i wish i knew why but i dont. I've looked up to you since i was young and i still do. Have a great day.
+ham,"Awesome, I remember the last time we got somebody high for the first time with diesel"
+spam,"If you don't, your prize will go to another customer. Please call back if busy "
+spam,"SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO"
+ham,Shall call now dear having food
+spam,Missed call alert. These numbers called but left no message. 01012345678
