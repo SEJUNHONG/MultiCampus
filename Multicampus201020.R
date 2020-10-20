@@ -14,3 +14,10 @@ pairs.panels(insurance[c("age","bmi","children","expenses")])
 ins_model<-lm(expenses~age+children+bmi+sex+smoker+region, data = insurance)
 ins_model
 summary(ins_model)
+temp<-data.frame(age=25, children=2, bmi=30, sex='female', smoker='yes', region='northeast')
+temp
+predict(ins_model, newdata = temp)
+
+mydata<-read.csv("ins_model_test.csv", stringsAsFactors = T)
+mydata
+predict(ins_model, newdata = mydata)
